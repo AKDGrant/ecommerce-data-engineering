@@ -1,0 +1,7 @@
+order_id,customer_id,product_id,quantity,customer_name,product_name,price,revenue
+5001,1,101,1,John Smith,Laptop,1000,1000
+5002,2,102,2,Sarah Jones,Mouse,25,50
+5003,3,104,1,Mike Brown,Monitor,300,300
+5004,1,105,1,John Smith,Headset,80,80
+5005,4,103,3,Emma Wilson,Keyboard,50,150
+5006,5,101,1,David Lee,Laptop,1000,1000
